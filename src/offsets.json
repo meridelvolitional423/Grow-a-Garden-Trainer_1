@@ -1,0 +1,11 @@
+{
+  "coins_offset": 0x0,
+  "health_offset": 0x0,
+  "plant_status_offset": 0x0,
+  "seed_inventory_offset": 0x0,
+  "pet_rarity_offset": 0x0,
+  "growth_speed_offset": 0x0,
+  "plot_state_offset": 0x0,
+  "player_position_offset": 0x0,
+  "game_time_offset": 0x0
+}
